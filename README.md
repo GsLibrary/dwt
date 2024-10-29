@@ -7,11 +7,13 @@
 
 # [**V2**] Dynamic Website Template
 
+---
+
 # Table of Contents
 * [**Introduction**](#intro)
 * [**Preincluded Packages, Tools, and Files**](#preincluded)
 
-
+---
 
 <span id="intro"></span>
 
@@ -21,7 +23,7 @@
 ### You Can Now Feel More Organized With the V2 of Dynamic Website Template
 > You now have **more .js files** accessible to sort and free up clutter such as **config.js**!
 
-
+---
 
 <span id="preincluded"></span>
 
