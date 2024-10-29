@@ -23,5 +23,6 @@
 
 ### There Are Many Preincluded Packages, Tools, and Files in This Project
 > For more info on each of the preincluded resources check out the **Intro to Resources** section of this README.md or in **more/ItR/** folder
-* **server.js**
-* **config.js**
+* **server.js** | Main .js file
+* **config.js** | Storage for things that are configurable
+* **install.bat** | Installs all packages
