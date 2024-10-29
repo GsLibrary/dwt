@@ -7,8 +7,6 @@
 
 # [**V2**] Dynamic Website Template
 
----
-
 # Table of Contents
 * [**Introduction**](#intro)
 * [**Preincluded Packages, Tools, and Files**](#preincluded)
