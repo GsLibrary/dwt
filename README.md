@@ -9,8 +9,6 @@
 * [**Introduction**](#intro)
 * [**Preincluded Packages, Tools, and Files**](#preincluded)
 
-<br><br>
-
 <span id="intro"></span>
 
 ### An Easy to Setup Nodejs Server, With Easily Configurable Options
@@ -19,11 +17,7 @@
 ### You Can Now Feel More Organized With the V2 of Dynamic Website Template
 > You now have **more .js files** accessible to sort and free up clutter such as **config.js**!
 
-<br>
-
 ---
-
-<br>
 
 <span id="preincluded"></span>
 
