@@ -9,17 +9,21 @@
 
 ### Table of Contents
 * [**Introduction**](#intro)
-* [**Preincluded Files/Packages/Tools](#preincluded)
+* [**Preincluded Packages, Tools, and Files**](#preincluded)
 
 
 
 <span id="intro"></span>
-### An Easy To Setup NodeJS Server, With Easily Configurable Options
-> This project allows users to easily create their own NodeJS server, with preincluded packages and tools, plenty of notes and resources, and more!
 
-### You can now feel more organized with the V2 of Dynamic Website Template
-> You now have more .js files accessible to sort and free up clutter such as config.js!
+### An Easy to Setup Nodejs Server, With Easily Configurable Options
+> This project allows users to **easily create their own NodeJS server**, with **preincluded packages**, **tools**, and **files** with plenty of **notes**, **resources**, and **more**!
+
+### You Can Now Feel More Organized With the V2 of Dynamic Website Template
+> You now have **more .js files** accessible to sort and free up clutter such as **config.js**!
 
 
 
 <span id="preincluded"></span>
+
+### There Are Many Preincluded Packages, Tools, and Files in This Project
+> For more info on each of the preincluded resources check out the **Intro to Resources** section of this README.md or in **more/ItR/** folder
