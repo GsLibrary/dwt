@@ -10,13 +10,14 @@ IF EXIST ".env" (
     REM File exists, skip this part
 ) ELSE (
     echo SECRET_SESSION = %random% > .env
+    echo PORT = 3000 > .env
 )
 
 IF EXIST "pages\delete-me" (
     del "pages\delete-me" /Q
-) ELSE IF EXIST "static\delete-me" (
+) IF EXIST "static\delete-me" (
     del "static\delete-me" /Q
-) ELSE IF EXIST "more\ItR\delete-me" (
+) IF EXIST "more\ItR\delete-me" (
     del "more\ItR\delete-me" /Q 
 ) ELSE (
     REM Files do not exist, skip this part
