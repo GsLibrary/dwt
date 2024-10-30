@@ -27,7 +27,9 @@
 * **Express Session** - ExpressJS Session
 * **Path** - NodeJS Path For NPM
 * **DotEnv** - Secure way to store information
+
 <br>
+
 * **server.js** - Main .js file
 * **config.js** - Storage for things that are configurable
 * **packages.js** - Storage for all npm packages and whatnot
