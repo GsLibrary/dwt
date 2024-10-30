@@ -1,5 +1,5 @@
 {
-  "name": "DWT",
+  "name": "dwt",
   "version": "2.0.0",
   "description": "V2 An Easy to Setup Nodejs Server, With Easily Configurable Options",
   "main": "server.js",

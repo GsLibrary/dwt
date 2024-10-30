@@ -23,6 +23,11 @@
 
 ### There Are Many Preincluded Packages, Tools, and Files in This Project
 > For more info on each of the preincluded resources check out the **Intro to Resources** section of this README.md or in **more/ItR/** folder. If you know anything about linux and can make me a shell versions of **install.bat** and **run.bat**, please do so by forking then request to pull.
+* **Express** - ExpressJS
+* **Express Session** - ExpressJS Session
+* **Path** - NodeJS Path For NPM
+* **DotEnv** - Secure way to store information
+
 * **server.js** - Main .js file
 * **config.js** - Storage for things that are configurable
 * **packages.js** - Storage for all npm packages and whatnot
