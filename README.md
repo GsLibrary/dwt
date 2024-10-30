@@ -25,5 +25,6 @@
 > For more info on each of the preincluded resources check out the **Intro to Resources** section of this README.md or in **more/ItR/** folder. If you know anything about linux and can make me a shell versions of **install.bat** and **run.bat**, please do so by forking then request to pull.
 * **server.js** - Main .js file
 * **config.js** - Storage for things that are configurable
+* **packages.js** - Storage for all npm packages and whatnot
 * **install.bat** - Installs all packages 
 * **run.bat** - runs the server, including my own made easy restart function

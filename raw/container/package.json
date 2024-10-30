@@ -1,0 +1,19 @@
+{
+  "name": "DWT",
+  "version": "2.0.0",
+  "description": "V2 An Easy to Setup Nodejs Server, With Easily Configurable Options",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "GsLibrary",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "path": "^0.12.7"
+  }
+}

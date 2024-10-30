@@ -3,7 +3,7 @@ title Run DWTv2
 
 :run
 cls
-echo Thank You For Using V2 Of DWT!
+echo [G] Thank You For Using V2 Of DWT!
 start /b node server.js
 pause >nul
 echo.
@@ -19,6 +19,6 @@ if errorlevel 1 goto run
 
 :stop
 cls
-echo Thank You For Using V2 Of DWT!
+echo [G] Thank You For Using V2 Of DWT!
 timeout 5 >nul
 exit
