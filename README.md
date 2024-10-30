@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://img.shields.io/badge/Latest_Version-1.0.11-884dff?labelColor=2a2a2a" alt="Static Badge"> 
+  <img src="https://img.shields.io/badge/Latest_Version-1.0.12-884dff?labelColor=2a2a2a" alt="Static Badge"> 
   <a href="https://gvnx.is-a-good.dev/DWT">  
     <img src="https://img.shields.io/badge/Download_Latest_Version-%E2%96%BC-884dff?labelColor=2a2a2a" alt="Download"> 
   </a> 
@@ -23,10 +23,11 @@
 
 ### There Are Many Preincluded Packages, Tools, and Files in This Project
 > For more info on each of the preincluded resources check out the **Intro to Resources** section of this README.md or in **more/ItR/** folder. If you know anything about linux and can make me a shell versions of **install.bat** and **run.bat**, please do so by forking then request to pull.
-* **Express** - ExpressJS
-* **Express Session** - ExpressJS Session
-* **Path** - NodeJS Path For NPM
-* **DotEnv** - Secure way to store information
+* **Express** - ExpressJS [[Link]]()
+* **Express Session** - ExpressJS Session [[Link]]()
+* **Path** - NodeJS Path For NPM [[Link]]()
+* **Body Parser** - Processes body info easily [[Link]](https://www.npmjs.com/package/body-parser)
+* **DotEnv** - Secure way to store information [[Link]]()
 
 <br>
 
