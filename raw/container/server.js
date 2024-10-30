@@ -1,11 +1,12 @@
 // Packages
 const { express, session, path, dotenv } = require('./packages');
-const app = express();
+const app = require('./appConfig'); 
 
 // Variables
+const { site, pages, static } = require('./config');
 const port = process.env.PORT
 
-// App
+// Console
 app.listen(port, () => {
-    console.log(`[Server] Server is now running at http://localhost:${port}`);
+    console.log(`[Server] Server is now running at ${site}:${port}`);
 });
