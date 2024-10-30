@@ -23,11 +23,11 @@
 
 ### There Are Many Preincluded Packages, Tools, and Files in This Project
 > For more info on each of the preincluded resources check out the **Intro to Resources** section of this README.md or in **more/ItR/** folder. If you know anything about linux and can make me a shell versions of **install.bat** and **run.bat**, please do so by forking then request to pull.
-* **Express** - ExpressJS [[Link]]()
-* **Express Session** - ExpressJS Session [[Link]]()
-* **Path** - NodeJS Path For NPM [[Link]]()
+* **Express** - ExpressJS [[Link]](https://www.npmjs.com/package/express)
+* **Express Session** - ExpressJS Session [[Link]](https://www.npmjs.com/package/express-session)
+* **Path** - NodeJS Path For NPM [[Link]](https://www.npmjs.com/package/path)
 * **Body Parser** - Processes body info easily [[Link]](https://www.npmjs.com/package/body-parser)
-* **DotEnv** - Secure way to store information [[Link]]()
+* **DotEnv** - Secure way to store information [[Link]](https://www.npmjs.com/package/dotenv)
 
 <br>
 
