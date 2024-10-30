@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://img.shields.io/badge/Latest_Version-1.0.0-884dff?labelColor=2a2a2a" alt="Static Badge"> 
+  <img src="https://img.shields.io/badge/Latest_Version-1.0.1-884dff?labelColor=2a2a2a" alt="Static Badge"> 
   <a href="https://gvnx.is-a-good.dev/DWT">  
     <img src="https://img.shields.io/badge/Download_Latest_Version-%E2%96%BC-884dff?labelColor=2a2a2a" alt="Download"> 
   </a> 
@@ -32,6 +32,7 @@
 
 * **server.js** - Main .js file
 * **config.js** - Storage for things that are configurable
-* **packages.js** - Storage for all npm packages and whatnot
+* **appConfig.js** - Storage for ExpressJS scripts, taking info from **config.js**
+* **packages.js** - Storage for all npm packages and whatnot, with exporting to easily add to new files
 * **install.bat** - Installs all packages 
 * **run.bat** - runs the server, including my own made easy restart function
