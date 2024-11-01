@@ -37,7 +37,7 @@
 * **Path** - NodeJS Path For NPM [[Link]](https://www.npmjs.com/package/path)
 * **Body Parser** - Processes body info easily [[Link]](https://www.npmjs.com/package/body-parser)
 * **DotEnv** - Secure way to store information [[Link]](https://www.npmjs.com/package/dotenv)
-
+* **EJS** - Embedded JavaScript [[Link]](https://www.npmjs.com/package/ejs)
 <br>
 
 * **server.js** - Main .js file
