@@ -23,7 +23,7 @@
 <span id="issues"></span>
 
 ### Known Issues
-> These are known issues with V2 of DWT, some issues may not be listed here, and if you believe one should that isn't please [**open a new issue**](https://github.com/GsLibrary/dwt/issues)
+> These are known issues with V2 of DWT, some issues may not be listed here, and if you believe one should that isn't please [**open a new issue**](https://github.com/GsLibrary/dwt/issues/new)
 * **No issues listed yet! :D** 
 
 ---
