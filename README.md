@@ -7,6 +7,7 @@
 
 # Table of Contents
 * [**Introduction**](#intro)
+* [**Known Issues**](#issues)
 * [**Preincluded Packages, Tools, and Files**](#preincluded)
 
 <span id="intro"></span>
@@ -16,6 +17,14 @@
 
 ### You Can Now Feel More Organized With the V2 of Dynamic Website Template
 > You now have **more .js files** accessible to sort and free up clutter such as **config.js**!
+
+---
+
+<span id="issues"></span>
+
+### Known Issues
+> These are known issues with V2 of DWT, some issues may not be listed here, and if you believe one should that isn't please [**open a new issue**](https://github.com/GsLibrary/dwt/issues)
+* **No issues listed yet! :D** 
 
 ---
 
