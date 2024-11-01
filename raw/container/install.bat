@@ -9,8 +9,8 @@ echo Dependencies installed.
 IF EXIST ".env" (
     REM File exists, skip this part
 ) ELSE (
-    echo SECRET_SESSION = %random% > .env
-    echo PORT = 3000 > .env
+    echo SECRET_SESSION = %random% >> .env
+    echo PORT = 3000 >> .env
 )
 
 IF EXIST "pages\delete-me" (

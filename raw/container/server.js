@@ -11,8 +11,8 @@ app.get('/', function(req, res) {
     res.send(`Change what this shows in server.js`);
 });
 
-app.get('/show-ip', (req, res) => {
-    res.send(`Your IP is: ${req.UserIP}`);
+app.get('/example', function(req, res) {
+    res.render(`example`); // Example usage
 });
 
 // Console

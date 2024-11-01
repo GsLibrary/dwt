@@ -18,11 +18,4 @@ app.use(session({
   saveUninitialized: true
 }));
 
-// Showcasing, I Recommend Removing This When Building Your Own Server
-app.use((req, res, next) => {
-    req.UserIP = req.ip; // req.ip automatically provides the user's IP
-    next();
-});
-  
-
 module.exports = app; // Export the configured app
