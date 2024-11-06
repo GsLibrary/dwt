@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://img.shields.io/badge/Latest_Version-1.0.14-884dff?labelColor=2a2a2a" alt="Static Badge"> 
+  <img src="https://img.shields.io/badge/Latest_Version-1.0.15-884dff?labelColor=2a2a2a" alt="Static Badge"> 
   <a href="https://gvnx.is-a-good.dev/DWT">  
     <img src="https://img.shields.io/badge/Download_Latest_Version-%E2%96%BC-884dff?labelColor=2a2a2a" alt="Download"> 
   </a> 
@@ -38,6 +38,7 @@
 * **Body Parser** - Processes body info easily [[Link]](https://www.npmjs.com/package/body-parser)
 * **DotEnv** - Secure way to store information [[Link]](https://www.npmjs.com/package/dotenv)
 * **EJS** - Embedded JavaScript [[Link]](https://www.npmjs.com/package/ejs)
+* **RandomString** - Generate random strings [[Link]](https://www.npmjs.com/package/randomstring)
 <br>
 
 * **server.js** - Main .js file
