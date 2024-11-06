@@ -1,5 +1,5 @@
 // Packages
-const { express, session, path, bodyParser, dotenv } = require('./packages');
+const { express, session, path, bodyParser, dotenv, randomstring } = require('./packages');
 const app = express();
 
 // Variables

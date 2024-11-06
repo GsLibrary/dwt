@@ -1,5 +1,5 @@
 // Packages
-const { express, session, path, bodyParser } = require('./packages');
+const { express, session, path, bodyParser, randomstring } = require('./packages');
 const app = require('./appConfig'); 
 
 // Variables
@@ -13,6 +13,13 @@ app.get('/', function(req, res) {
 
 app.get('/example', function(req, res) {
     res.render(`example`); // Example usage
+});
+
+app.get('/rng', function(req, res) {
+    const rngvalue = {
+        rng: randomstring.generate()
+    }
+    res.render(`example`, rngvalue); // Example usage
 });
 
 // Console

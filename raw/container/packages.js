@@ -4,6 +4,7 @@ const session = require('express-session');
 const path = require('path');
 const bodyParser = require('body-parser');
 const dotenv = require('dotenv').config();
+const randomstring = require("randomstring");
 
 // Export Packages To Import In Other .js Files
 module.exports = {
@@ -11,5 +12,6 @@ module.exports = {
     session,
     path,
     bodyParser,
-    dotenv
+    dotenv,
+    randomstring
 };
