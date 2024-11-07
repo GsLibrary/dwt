@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://img.shields.io/badge/Latest_Version-1.0.16-884dff?labelColor=2a2a2a" alt="Static Badge"> 
+  <img src="https://img.shields.io/badge/Latest_Version-1.0.17-884dff?labelColor=2a2a2a" alt="Static Badge"> 
   <a href="https://gvnx.is-a-good.dev/DWT">  
     <img src="https://img.shields.io/badge/Download_Latest_Version-%E2%96%BC-884dff?labelColor=2a2a2a" alt="Download"> 
   </a> 
